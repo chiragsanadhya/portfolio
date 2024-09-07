@@ -1,0 +1,47 @@
+,
+    "Food Recommendation System": {
+        "description": """
+        Developed a food recommendation system using Kaggle’s Indian food recipes dataset. 
+        Utilized machine learning algorithms to recommend recipes based on user-provided ingredients. 
+        Users can explore similar recipes, offering a personalized culinary experience.
+        """,
+        "tech_stack": ["Python", "Pandas", "Scikit-Learn", "NLP"],
+        "image": "food_recommendation.jpg",  # Replace with your image filename
+        "link": "https://github.com/chirag-sanadhya/Food-Recommendation-System"
+    },
+    "NYC Airbnb Exploratory Data Analysis (EDA)": {
+        "description": """
+        Conducted EDA on the NYC Airbnb dataset, extracting insights on pricing, property types, and neighborhood preferences. 
+        The analysis informed data-driven decisions for hosts and travelers, showcasing my ability to analyze large datasets and draw actionable conclusions.
+        """,
+        "tech_stack": ["Python", "Pandas", "Matplotlib", "Seaborn"],
+        "image": "nyc_airbnb.jpg",  # Replace with your image filename
+        "link": "https://github.com/chirag-sanadhya/NYC-Airbnb-EDA"
+    },
+    "Plant Disease Classification using CNN": {
+        "description": """
+        Built a Convolutional Neural Network (CNN) to classify plant diseases based on images. 
+        Used the New Plant Diseases Dataset (Augmented) from Kaggle, employing libraries such as TensorFlow, Keras, OpenCV, and PIL for model development.
+        """,
+        "tech_stack": ["Python", "TensorFlow", "Keras", "OpenCV", "PIL"],
+        "image": "plant_disease_classification.jpg",  # Replace with your image filename
+        "link": "https://github.com/chirag-sanadhya/Plant-Disease-Classification"
+    },
+    "Text Document Summarization Tool": {
+        "description": """
+        Developed a web-based tool using Python and transformers for NLP tasks, enabling users to summarize text documents in various formats (.txt, .docx, .pptx, .pdf). 
+        This project demonstrates my ability to work with NLP, web development, and text processing.
+        """,
+        "tech_stack": ["Python", "Transformers", "Hugging Face", "Flask", "NLP"],
+        "image": "text_summarization.jpg",  # Replace with your image filename
+        "link": "https://github.com/chirag-sanadhya/Text-Document-Summarization"
+    },
+    "Camera vs AI Classifier": {
+        "description": """
+        Explored the differences between traditional camera-based classification methods and AI-driven approaches. 
+        By comparing accuracy, speed, and reliability, the project highlights the strengths and limitations of each method.
+        """,
+        "tech_stack": ["Python", "OpenCV", "TensorFlow", "Scikit-Learn"],
+        "image": "camera_vs_ai.jpg",  # Replace with your image filename
+        "link": "https://github.com/chirag-sanadhya/Camera-vs-AI"
+    }
