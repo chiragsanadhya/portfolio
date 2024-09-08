@@ -181,7 +181,7 @@ projects = {
         """,
         "tech_stack": ["Python", "Transformers", "Hugging Face", "TensorFlow", "Flask"],
         "image": "Screenshot 2024-09-07 at 10.42.34 AM.png",  # Replace with your image filename
-        "link": "https://github.com/chirag-sanadhya/Chatbot"
+        "link": "https://github.com/chiragsanadhya/chatbot-with-history"
     }
 }
 
